@@ -21,18 +21,18 @@ Name | Website | Region
 [Abstract API](/company-profiles/abstract.md) | https://www.abstractapi.com | Worldwide
 [acct](/company-profiles/acct.md) | https://acct.global | Worldwide
 [Acivilate](/company-profiles/acivilate.md) | https://acivilate.com/ | USA
-[RCMD-Acquia](/company-profiles/acquia.md) | https://www.acquia.com/ | Worldwide
+[8-Acquia](/company-profiles/acquia.md) | https://www.acquia.com/ | Worldwide
 [ActiveCampaign](/company-profiles/activecampaign.md) | https://www.activecampaign.com/ | Dublin, Ireland; USA
 [Ad Hoc](/company-profiles/ad-hoc.md) | https://www.adhocteam.us/ | USA
-[Adaface](/company-profiles/adaface.md) | https://www.adaface.com | Asia
+[5-Adaface](/company-profiles/adaface.md) | https://www.adaface.com | Asia
 [AddStructure](/company-profiles/addstructure.md)| https://www.bazaarvoice.com/ | USA
-[Adeva](/company-profiles/adeva.md) | https://adevait.com/ | Asia, Africa, Europe, South America, United States
-[Adzuna](/company-profiles/adzuna.md) | https://www.adzuna.co.uk/ | Worldwide
+[6-Adeva](/company-profiles/adeva.md) | https://adevait.com/ | Asia, Africa, Europe, South America, United States
+[2-Adzuna](/company-profiles/adzuna.md) | https://www.adzuna.co.uk/ | Worldwide
 [AE Studio](/company-profiles/aestudio.md) | https://ae.studio/ | USA, BR
 [Aerolab](/company-profiles/aerolab.md) | https://aerolab.co/ | Latin America
 [Aerostrat](/company-profiles/aerostrat.md) | https://aerostratsoftware.com/ | USA
 [AgFlow](/company-profiles/agflow.md) | https://www.agflow.com | Europe
-[Aha!](/company-profiles/aha.md) | https://www.aha.io | Worldwide
+[5-Aha!](/company-profiles/aha.md) | https://www.aha.io | Worldwide
 [Aim India](/company-profiles/aim-india.md) | https://www.aimincorp.com/ | India
 [Airbank](/company-profiles/airbank.md)| https://www.joinairbank.com/ | Europe, Americas, Africa, Western Asia
 [Airbyte](/company-profiles/airbyte.md)| https://airbyte.com/ | Europe, North America, Latin America
@@ -43,35 +43,35 @@ Name | Website | Region
 [Alan](/company-profiles/alan.md) | https://alan.com/ | Europe
 [Algorand](/company-profiles/algorand.md) | https://www.algorand.com/ | USA
 [Algorithmia](/company-profiles/algorithmia.md) | https://algorithmia.com/ | North America
-[ALICE](/company-profiles/alice.md) | https://aliceplatform.com | Worldwide
+[1-ALICE](/company-profiles/alice.md) | https://aliceplatform.com | Worldwide
 [Alight Solutions](/company-profiles/alight-solutions.md) | https://alight.com | Worldwide
 [Alley](/company-profiles/alley.md) | https://alley.co | USA, Canada, Western Europe
 [allyDVM](/company-profiles/allydvm.md) | https://www.allydvm.com/ | USA
 [AlphaSights](/company-profiles/alphasights.md) | https://engineering.alphasights.com | USA, UK, (EST, GMT)
 [Amazon](/company-profiles/amazon.md) | https://www.amazon.jobs/en/locations/virtual-locations | Worldwide
 [Ambaum](/company-profiles/ambaum.md) | https://ambaum.com/ | USA, Europe
-[Andela](/company-profiles/andela.md) | https://andela.com/ | Worldwide
+[6-Andela](/company-profiles/andela.md) | https://andela.com/ | Worldwide
 [Animalz](/company-profiles/animalz.md) | https://www.animalz.co | USA
 [Annertech](/company-profiles/annertech.md) | https://www.annertech.com | Ireland
 [Anomali](/company-profiles/anomali.md) | https://www.anomali.com/company/careers | USA, UK, Singapore
 [apartment therapy](/company-profiles/apartment-therapy.md) | http://www.apartmenttherapy.com/ | USA
 [Appinio](/company-profiles/appinio.md) | https://appinio.com/ | Europe
-[Applaudo](/company-profiles/applaudo.md) | https://applaudostudios.com | Worldwide
+[5-Applaudo](/company-profiles/applaudo.md) | https://applaudostudios.com | Worldwide
 [Appstractor Corporation](/company-profiles/appstractor.md) | https://www.appstractor.com/ | USA, UK, Israel
 [Appwrite](/company-profiles/appwrite.md) | https://appwrite.io | Worldwide
-[argyle](/company-profiles/argyle.md) | https://argyle.com/ | Worldwide
-[ARK](/company-profiles/ark.md) | https://www.ark.io/careers | Worldwide
-[Arkency](/company-profiles/arkency.md) | https://arkency.com/ | Worldwide
+[5-argyle](/company-profiles/argyle.md) | https://argyle.com/ | Worldwide
+[5-ARK](/company-profiles/ark.md) | https://www.ark.io/careers | Worldwide
+[5-Arkency](/company-profiles/arkency.md) | https://arkency.com/ | Worldwide
 [Art & Logic](/company-profiles/art-and-logic.md) | https://artandlogic.com | USA, Canada
 [Artefactual Systems](/company-profiles/artefactual.md) | https://www.artefactual.com | UTC-8 to UTC+2
 [Articulate](/company-profiles/articulate.md) | https://www.articulate.com | Worldwide
 [Astronomer](/company-profiles/astronomer.md) | https://www.astronomer.io/ | USA
 [Atlassian](/company-profiles/atlassian.md) | https://www.atlassian.com/ | USA, Europe, Asia, Australia
 [Audiense](/company-profiles/audiense.md) | https://www.audiense.com/ | Worldwide
-[Aula Education](/company-profiles/aula.md) | https://aula.education/ | Worldwide
+[5-Aula Education](/company-profiles/aula.md) | https://aula.education/ | Worldwide
 [Auth0](/company-profiles/auth0.md) | https://auth0.com/ | Worldwide
-[Automattic](/company-profiles/automattic.md) | https://automattic.com/ | Worldwide
-[Axelerant](/company-profiles/axelerant.md) | https://axelerant.com/ | Worldwide
+[6-Automattic](/company-profiles/automattic.md) | https://automattic.com/ | Worldwide
+[4-Axelerant](/company-profiles/axelerant.md) | https://axelerant.com/ | Worldwide
 [Axios](/company-profiles/axios.md) | https://axios.com/ | USA
 [Bairesdev](/company-profiles/bairesdev.md) | https://bairesdev.com/ | Worldwide
 [Balena](/company-profiles/balena.md) | https://www.balena.io/ | Worldwide
