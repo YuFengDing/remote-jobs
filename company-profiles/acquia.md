@@ -1,4 +1,4 @@
-# Acquia
+# [STAR]Acquia
 
 ## Company blurb
 
