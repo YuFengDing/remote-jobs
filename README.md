@@ -73,14 +73,14 @@ Name | Website | Region
 [6-Automattic](/company-profiles/automattic.md) | https://automattic.com/ | Worldwide
 [4-Axelerant](/company-profiles/axelerant.md) | https://axelerant.com/ | Worldwide
 [Axios](/company-profiles/axios.md) | https://axios.com/ | USA
-[Bairesdev](/company-profiles/bairesdev.md) | https://bairesdev.com/ | Worldwide
-[Balena](/company-profiles/balena.md) | https://www.balena.io/ | Worldwide
+[7-Bairesdev](/company-profiles/bairesdev.md) | https://bairesdev.com/ | Worldwide
+[6-Balena](/company-profiles/balena.md) | https://www.balena.io/ | Worldwide
 [Balsamiq](/company-profiles/balsamiq.md) | https://balsamiq.com/ | Worldwide
-[Bandcamp](/company-profiles/bandcamp.md) | https://bandcamp.com/ | Worldwide
-[BandLab](/company-profiles/bandlab.md) | https://bandlab.com/ | Worldwide
-[Bandzoogle](/company-profiles/bandzoogle.md) | https://bandzoogle.com/ | Worldwide
-[Baremetrics](/company-profiles/baremetrics.md) | https://baremetrics.com/ | Worldwide
-[Basecamp](/company-profiles/basecamp.md) | https://basecamp.com/ | Worldwide
+[5-Bandcamp](/company-profiles/bandcamp.md) | https://bandcamp.com/ | Worldwide
+[5-BandLab](/company-profiles/bandlab.md) | https://bandlab.com/ | Worldwide
+[3-Bandzoogle](/company-profiles/bandzoogle.md) | https://bandzoogle.com/ | Worldwide
+[1-Baremetrics](/company-profiles/baremetrics.md) | https://baremetrics.com/ | Worldwide
+[1-Basecamp](/company-profiles/basecamp.md) | https://basecamp.com/ | Worldwide
 [Bear Group](/company-profiles/bear-group.md) | https://www.beargroup.com/ | USA
 [BeBanjo](/company-profiles/bebanjo.md) | https://bebanjo.com/ | Worldwide
 [BeenVerified](/company-profiles/beenverified.md) | https://www.beenverified.com/ | Worldwide
