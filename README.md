@@ -82,36 +82,36 @@ Name | Website | Region
 [1-Baremetrics](/company-profiles/baremetrics.md) | https://baremetrics.com/ | Worldwide
 [1-Basecamp](/company-profiles/basecamp.md) | https://basecamp.com/ | Worldwide
 [Bear Group](/company-profiles/bear-group.md) | https://www.beargroup.com/ | USA
-[BeBanjo](/company-profiles/bebanjo.md) | https://bebanjo.com/ | Worldwide
-[BeenVerified](/company-profiles/beenverified.md) | https://www.beenverified.com/ | Worldwide
-[Best Practical Solutions](/company-profiles/best-practical-solutions.md) | https://bestpractical.com/ | Worldwide
+[1-BeBanjo](/company-profiles/bebanjo.md) | https://bebanjo.com/ | Worldwide
+[3-BeenVerified](/company-profiles/beenverified.md) | https://www.beenverified.com/ | Worldwide
+[1-Best Practical Solutions](/company-profiles/best-practical-solutions.md) | https://bestpractical.com/ | Worldwide
 [Betable](/company-profiles/betable.md) | https://corp.betable.com/ | USA, Europe
-[BetaPeak](/company-profiles/betapeak.md) | https://betapeak.com/ | Worldwide
+[4-BetaPeak](/company-profiles/betapeak.md) | https://betapeak.com/ | Worldwide
 [BetterUp](/company-profiles/betterup.md) | https://www.betterup.com/ | USA
 [Beyond Company](/company-profiles/beyond-company.md) | https://beyondcompany.com.br/ | Brazil
 [BeyondPricing](/company-profiles/beyondpricing.md) | https://beyondpricing.com | USA, Europe
 [Big Cartel](/company-profiles/big-cartel.md) | https://www.bigcartel.com | USA
 [Bill](/company-profiles/bill.md) | https://www.bill.com/ | USA
-[Bit Zesty](/company-profiles/bit-zesty.md) | https://bitzesty.com/ | Worldwide
-[Bitnami](/company-profiles/bitnami.md) | https://bitnami.com/ | Worldwide
-[Bitovi](/company-profiles/bitovi.md) | https://bitovi.com/ | Worldwide
-[Bizink](/company-profiles/bizink.md) | https://bizinkonline.com | Worldwide
+[4-Bit Zesty](/company-profiles/bit-zesty.md) | https://bitzesty.com/ | Worldwide
+[4-Bitnami](/company-profiles/bitnami.md) | https://bitnami.com/ | Worldwide
+[3-Bitovi](/company-profiles/bitovi.md) | https://bitovi.com/ | Worldwide
+[3-Bizink](/company-profiles/bizink.md) | https://bizinkonline.com | Worldwide
 [Blameless](/company-profiles/blameless.md) | https://www.blameless.com/ | North America
 [Bloc](/company-profiles/bloc.md) | https://www.bloc.io/ | North America
 [BlueCat Networks](/company-profiles/bluecat-networks.md) | https://bluecatnetworks.com/ | North America
 [Bluespark](/company-profiles/bluespark.md)  | https://www.bluespark.com/ | USA
-[Boldare](/company-profiles/boldare.md) | https://boldare.com | Worldwide
-[Bonsai](/company-profiles/bonsai.md) | https://www.hellobonsai.com | Worldwide
-[Bounteous](/company-profiles/bounteous.md) | https://bounteous.com | Worldwide
-[Brainstorm Force](/company-profiles/brainstorm-force.md) | https://brainstormforce.com/ | Worldwide
+[4-Boldare](/company-profiles/boldare.md) | https://boldare.com | Worldwide
+[4-Bonsai](/company-profiles/bonsai.md) | https://www.hellobonsai.com | Worldwide
+[7-Bounteous](/company-profiles/bounteous.md) | https://bounteous.com | Worldwide
+[4-Brainstorm Force](/company-profiles/brainstorm-force.md) | https://brainstormforce.com/ | Worldwide
 [Brave Investments](/company-profiles/brave-investments.md)  | https://www.crunchbase.com/organization/brave-investment | Brazil
 [Bright Funds](/company-profiles/bright-funds.md) | https://www.brightfunds.org | USA
-[Brikl](/company-profiles/brikl.md) | https://www.brikl.com/ | North America, Asia
-[BriteCore](/company-profiles/britecore.md) | https://britecore.com/ | USA, Worldwide
-[Broadwing](/company-profiles/broadwing.md) | https://www.broadwing.io/ | Worldwide
-[Buffer](/company-profiles/buffer.md) | https://buffer.com/ | Worldwide
-[Bugfender](/company-profiles/bugfender.md) | https://bugfender.com/ | Worldwide
-[BuySellAds](/company-profiles/buysellads.md) | https://www.buysellads.com/ |  Worldwide
+[4-Brikl](/company-profiles/brikl.md) | https://www.brikl.com/ | North America, Asia
+[4-BriteCore](/company-profiles/britecore.md) | https://britecore.com/ | USA, Worldwide
+[4-Broadwing](/company-profiles/broadwing.md) | https://www.broadwing.io/ | Worldwide
+[4-Buffer](/company-profiles/buffer.md) | https://buffer.com/ | Worldwide
+[3-Bugfender](/company-profiles/bugfender.md) | https://bugfender.com/ | Worldwide
+[3-BuySellAds](/company-profiles/buysellads.md) | https://www.buysellads.com/ |  Worldwide
 [Cabify](/company-profiles/cabify.md) | https://cabify.com/ | Spain
 [Calamari](/company-profiles/calamari.md) | https://calamari.io/ | Poland
 [Calibre](/company-profiles/calibre.md) | https://calibreapp.com/ | Worldwide
